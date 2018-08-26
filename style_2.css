@@ -24,6 +24,7 @@ p:not(class){
 
 [data-href] {
   background-color: var(--color_4);
+  // here should be color: -> task: Highlight all elements with data-href attribute – text color with color-4
 }
 
 a:first-child {
